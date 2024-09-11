@@ -1,0 +1,9 @@
+// Giải thích các câu lệnh
+git init : Khởi tạo git ban đầu đối với folder mới
+git add <file_name> : đưa 1 file trong folder vào vùng staging để chuẩn bị đẩy code lên github
+git add . : đưa toàn bộ file trong folder vào vùng staging 
+git commit -m "Message" Đưa file đang ở vùng staging đẩy lên repository để chuẩn bị push code lên github
+//Phân chia các vùng
+working directory: File 2, file 3
+Staging: không có gì
+Repository: File 
